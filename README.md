@@ -6,6 +6,8 @@
 
 ### What I'm Building
 
+**[Poker Lens](https://github.com/amrithpusala/pokerlens)** — Free poker equity calculator using Monte Carlo simulation + a neural net trained on 50K hands for sub-1ms inference · React, FastAPI, PyTorch
+
 **[Pratigya](https://github.com/amrithpusala)** — REST API backend for a 400+ participant tournament platform · MERN, JWT, Mongoose
 
 **[Purdue Personal Trainer](https://github.com/amrithpusala)** — AI fitness coach with Gemini-powered plan generation · Flutter, Firebase, Riverpod
