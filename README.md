@@ -3,9 +3,9 @@
 ---
 ### What I'm Building
 
-**[PokerLens](https://pokerlens-psi.vercel.app)** — Free poker equity calculator that replaces $250+ tools. Monte Carlo engine + a PyTorch neural net trained on 200K simulations for 0.08ms inference (6,000x speedup). Action advisor, range grid, hand history parser, Google/GitHub auth. · React, FastAPI, PyTorch, Supabase
+**[CodeSentry](https://github.com/amrithpusala/CodeSentry)** — CodeSentry is an AI GitHub review bot that uses a fast PyTorch classifier to send only high-risk code to Claude, cutting costs by 40–60% while maintaining 73% bug recall. It uses cross-file context to catch deeper issues and posts inline PR comments with fix suggestions in seconds via a GitHub App. · FastAPI, PyTorch, Claude API
 
-**[CodeSentry](https://github.com/amrithpusala/CodeSentry)** — AI code review bot for GitHub PRs. Custom bug-risk classifier trained on 1,200+ real commits from Django, React, Flask, etc. triages code chunks before sending high-risk ones to Claude for detailed review. · FastAPI, PyTorch, Claude API
+**[PokerLens](https://pokerlens-psi.vercel.app)** — Free poker equity calculator that replaces $250+ tools. Monte Carlo engine + a PyTorch neural net trained on 200K simulations for 0.08ms inference (6,000x speedup). Action advisor, range grid, hand history parser, Google/GitHub auth. · React, FastAPI, PyTorch, Supabase
 
 **[Pratigya](https://github.com/amrithpusala)** — REST API backend for a 400+ participant tournament platform with role-based access control and geolocation-based match scheduling · MERN, JWT, Mongoose
 
